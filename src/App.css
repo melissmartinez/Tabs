@@ -1,0 +1,24 @@
+.App ul {
+  list-style: none;
+  text-align: center;
+  font-size: 28px;
+  
+}
+
+.App ul li{
+  display: inline-block;
+  border: 1px solid black;
+  height: 50px;
+  width: 200px;
+  padding-top: 20px;
+  margin: 10px;
+  font-weight: bolder;
+}
+
+.App h4 {
+  border: 1px solid black;
+  height: 200px;
+  width: 1000px;
+  margin: 0px auto;
+  padding-top: 80px;
+}
